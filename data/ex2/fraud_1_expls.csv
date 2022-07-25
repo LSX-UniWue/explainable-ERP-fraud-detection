@@ -1,0 +1,25 @@
+﻿iloc,Bestandskonto,Bewertungsklasse,Einzelpostenanzeige moeglich,Erfolgskontentyp,Geschaeftsbereich,Gruppenkennzeichen,KZ EKBE,Kennzeichen: Posten nicht kopierbar ?,Kostenstelle,Kreditkontr_Bereich,Laufende Kontierung,PartnerPrctr,Profitcenter,Rechnungsbezug,Soll/Haben-Kennz_,Sperrgrund Menge,Steuerkennzeichen,Bewertungskreis,Steuerstandort,Umsatzwirksam,Verwaltung offener Posten,Werk,Zahlungsbedingung,Zahlungssperre,Alternative Kontonummer,Basismengeneinheit,BestPreisMngEinheit,Bestandsbuchung,Bestellmengeneinheit,Buchungsschluessel,Buchungszeilen-Id,ErfassungsMngEinh,Hauptbuchkonto,Kontoart,Kostenart,Kreditor,Material,Preissteuerung,Sachkonto,Vorgang,Vorgangsart GL,Wertestring,Betrag Hauswaehr,Betrag,Betrag_5,Gesamtbestand,Gesamtwert,Kreditkontr_betrag,Menge in BPME,Menge in ErfassME,Menge,Skontobasis,Label,Belegnummer,Position,Transaktionsart,Erfassungsuhrzeit
+17930,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,X,,,,,,X,X,X,,Fraud_Larceny_1,5000000036,7,Materialzugang,14:07:05
+17931,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,X,,,,,,X,X,X,,Fraud_Larceny_1,5000000036,8,Sachkontenbuchung,14:07:05
+19067,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,X,,,,X,,,,,,Fraud_Invoice_Kickback_1,5000000038,1,Materialzugang,14:14:37
+19068,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,X,,,,X,,,,,,Fraud_Invoice_Kickback_1,5000000038,2,Sachkontenbuchung,14:14:37
+19080,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,X,,,,X,,,,,,Fraud_Invoice_Kickback_1,5100000035,2,Sachkontenbuchung,14:14:37
+19081,,,,,,,,,,,,,,,,,X,,,,,,,,,,,X,,,,,,,,,,,,,,,X,,,,X,,,,,,Fraud_Invoice_Kickback_1,5100000035,3,Materialabgang,14:14:37
+23096,,X,,,,,X,,,,X,,,,,,X,,X,,,,,,,,,X,X,,,,,,,,,,,,,,,X,,X,X,,,,,,Fraud_Larceny_2,5000000045,3,Materialzugang,14:43:01
+23097,,X,,,,,X,,,,X,,,,,,X,,X,,,,,,,,,X,X,,,,,,,,,,,,,,,X,,X,X,,,,,,Fraud_Larceny_2,5000000045,4,Sachkontenbuchung,14:43:01
+23098,,X,,,,,X,,,,X,,,,,,X,,X,,,,,,,,,X,X,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Larceny_2,5000000045,5,Materialzugang,14:43:01
+23099,,X,,,,,X,,,,X,,,,,,X,,X,,,,,,,,,X,X,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Larceny_2,5000000045,6,Sachkontenbuchung,14:43:01
+24806,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000052,1,Materialzugang,14:55:14
+24807,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000052,2,Sachkontenbuchung,14:55:14
+24810,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000052,5,Materialzugang,14:55:14
+24811,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000052,6,Sachkontenbuchung,14:55:14
+24812,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000052,7,Materialzugang,14:55:14
+24813,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000052,8,Sachkontenbuchung,14:55:14
+24814,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000052,9,Materialzugang,14:55:14
+24815,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000052,10,Sachkontenbuchung,14:55:14
+24816,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000052,11,Materialzugang,14:55:14
+24817,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000052,12,Sachkontenbuchung,14:55:14
+24818,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000053,1,Materialzugang,14:55:14
+24819,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000053,2,Sachkontenbuchung,14:55:14
+24822,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000053,5,Materialzugang,14:55:14
+24823,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,X,X,,X,X,,X,X,X,,Fraud_Corporate_Injury_1,5000000053,6,Sachkontenbuchung,14:55:14
